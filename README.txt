@@ -1,60 +1,61 @@
-E‹¤’Ê‚Å•K—v‚È‚à‚Ì
-python2.X - mac‚È‚ç•W€‚Å“ü‚Á‚Ä‚Ü‚·.
-pip - ƒ^[ƒ~ƒiƒ‹‚Åusudo easy_install pipv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+ãƒ»å…±é€šã§å¿…è¦ãªã‚‚ã®
+python2.X - macãªã‚‰æ¨™æº–ã§å…¥ã£ã¦ã¾ã™.
+pip - ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsudo easy_install pipã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-›‰¹º‡¬ƒT[ƒo[uAudio_createv
-E•K—v‚È‚à‚Ì
-Flask - ƒ^[ƒ~ƒiƒ‹‚Åusudo pip isntall Flaskv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+â—‹éŸ³å£°åˆæˆã‚µãƒ¼ãƒãƒ¼ã€ŒAudio_createã€
+ãƒ»å¿…è¦ãªã‚‚ã®
+Flask - ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsudo pip isntall Flaskã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-E“à—e
-DocomoŽG’k‘Î˜bAPI‚ð—˜—p‚µ‚Ä‰¹º‡¬‚ðs‚¤ƒT[ƒo‚Å‚·.
-app.py‚Ì90s–Ú‚ÉDocomo developer support‚Å”­s‚³‚ê‚½APIƒL[‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+ãƒ»å†…å®¹
+Docomoé›‘è«‡å¯¾è©±APIã‚’åˆ©ç”¨ã—ã¦éŸ³å£°åˆæˆã‚’è¡Œã†ã‚µãƒ¼ãƒã§ã™.
+app.pyã®90è¡Œç›®ã«Docomo developer supportã§ç™ºè¡Œã•ã‚ŒãŸAPIã‚­ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-ŽÀs‚ÌÛ‚Íƒ^[ƒ~ƒiƒ‹‚Åupython app.pyv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
-‚±‚ÌƒT[ƒo‚É‘Î‚µ‚Ärequest‚ð‘—‚é‚Æ, ‰¹º‡¬‚ðs‚¢, ‰¹º‚ðÄ¶‚µ‚Ü‚·.
+å®Ÿè¡Œã®éš›ã¯ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œpython app.pyã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
+ã“ã®ã‚µãƒ¼ãƒã«å¯¾ã—ã¦requestã‚’é€ã‚‹ã¨, éŸ³å£°åˆæˆã‚’è¡Œã„, éŸ³å£°ã‚’å†ç”Ÿã—ã¾ã™.
 
-—á:http://127.0.0.1:5000/hello?word=hello
-ƒuƒ‰ƒEƒU‚Åã‚ÌƒAƒhƒŒƒX‚ÉƒAƒNƒZƒX‚·‚é‚Æ,uhellov‚Æ‚¢‚¤‰¹º‚ªÄ¶‚³‚ê‚Ü‚·.
+ä¾‹:http://127.0.0.1:5000/hello?word=hello
+ãƒ–ãƒ©ã‚¦ã‚¶ã§ä¸Šã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã¨,ã€Œhelloã€ã¨ã„ã†éŸ³å£°ãŒå†ç”Ÿã•ã‚Œã¾ã™.
 
-¦‘¼‚ÌPC‚©‚çƒAƒNƒZƒX‚µ‚½‚¯‚ê‚Î, app.py‚Ì95s–Ú‚ðƒRƒƒ“ƒgƒAƒEƒgŒã, 
-@96s–Ú‚ÌƒRƒƒ“ƒg‚ðŠO‚µ,ƒAƒhƒŒƒX‚ðÝ’è‚µ‚Ä‚­‚¾‚³‚¢.
+â€»ä»–ã®PCã‹ã‚‰ã‚¢ã‚¯ã‚»ã‚¹ã—ãŸã‘ã‚Œã°, app.pyã®95è¡Œç›®ã‚’ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆå¾Œ, 
+ã€€96è¡Œç›®ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚’å¤–ã—,ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’è¨­å®šã—ã¦ãã ã•ã„.
 
-›‰¹º”FŽ¯uAudio_recognitionv
+â—‹éŸ³å£°èªè­˜ã€ŒAudio_recognitionã€
 
-E•K—v‚È‚à‚Ì
-julius - ƒ^[ƒ~ƒiƒ‹‚Åusudo brew install portaudio juliusv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
-requests - ƒ^[ƒ~ƒiƒ‹‚Åusudo pip isntall requestsv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+ãƒ»å¿…è¦ãªã‚‚ã®
+julius - ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsudo brew install portaudio juliusã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
+requests - ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsudo pip isntall requestsã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-E“à—e
-‰¹º”FŽ¯‚Í¡‰ñJulius‚ð—˜—p‚µ‚Ü‚µ‚½.
-julius‚Ì‹N“®‚Íjulius_settingsƒtƒHƒ‹ƒ_“à‚Ìjulius.sh‚ðŽÀs‚µ‚Ü‚·.
-ŽÀs‚ÌÛ‚Íƒ^[ƒ~ƒiƒ‹‚Åush julius.shv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+ãƒ»å†…å®¹
+éŸ³å£°èªè­˜ã¯ä»Šå›žJuliusã‚’åˆ©ç”¨ã—ã¾ã—ãŸ.
+juliusã®èµ·å‹•ã¯julius_settingsãƒ•ã‚©ãƒ«ãƒ€å†…ã®julius.shã‚’å®Ÿè¡Œã—ã¾ã™.
+å®Ÿè¡Œã®éš›ã¯ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsh julius.shã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-julius‹N“®Œã, daemonƒtƒHƒ‹ƒ_“à‚Ìjulius_daemon.py‚ðŽÀs‚µ‚Ü‚·. 
-ŽÀs‚ÌÛ‚Í•Ê‚Ìƒ^[ƒ~ƒiƒ‹‚Åupython julius_daemon.pyv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
-‰¹º”FŽ¯‚ªŠJŽn‚³‚ê‚Ü‚·.
+juliusèµ·å‹•å¾Œ, daemonãƒ•ã‚©ãƒ«ãƒ€å†…ã®julius_daemon.pyã‚’å®Ÿè¡Œã—ã¾ã™. 
+å®Ÿè¡Œã®éš›ã¯åˆ¥ã®ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œpython julius_daemon.pyã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
+éŸ³å£°èªè­˜ãŒé–‹å§‹ã•ã‚Œã¾ã™.
 
-¦‰¹º”FŽ¯‚Å‚«‚éŒ¾—t‚Í, julius_settingsƒtƒHƒ‹ƒ_“à‚Ìjulius.words‚É“o˜^‚³‚ê‚Ä‚¢‚éŒ¾—t‚Ì‚Ý‚Å‚·.
-¦julius_deamon.py‚Ì70s–Ú‚ÌƒRƒƒ“ƒg‚ðŠO‚·‚Æ, ‰¹º‡¬ƒT[ƒo‚Érequest‚ð‘—‚é‚æ‚¤‚É‚È‚è‚Ü‚·.
+â€»éŸ³å£°èªè­˜ã§ãã‚‹è¨€è‘‰ã¯, julius_settingsãƒ•ã‚©ãƒ«ãƒ€å†…ã®julius.wordsã«ç™»éŒ²ã•ã‚Œã¦ã„ã‚‹è¨€è‘‰ã®ã¿ã§ã™.
+â€»julius_deamon.pyã®70è¡Œç›®ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚’å¤–ã™ã¨, éŸ³å£°åˆæˆã‚µãƒ¼ãƒã«requestã‚’é€ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã™.
 
-›Sphero“®ì§ŒäƒT[ƒouSphero_serverv
+â—‹Spheroå‹•ä½œåˆ¶å¾¡ã‚µãƒ¼ãƒã€ŒSphero_serverã€
 
-E•K—v‚È‚à‚Ì
-sphero - ƒ^[ƒ~ƒiƒ‹‚Åusudo pip install spherov‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
-bluetooth - Bluetooth/pybluez_masterƒtƒHƒ‹ƒ_“à‚Åusudo python setup.py installv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
+ãƒ»å¿…è¦ãªã‚‚ã®
+sphero - ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œsudo pip install spheroã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
+bluetooth - Bluetooth/pybluez_masterãƒ•ã‚©ãƒ«ãƒ€å†…ã§ã€Œsudo python setup.py installã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
 
-E“à—e
-ŽÀs‚ÌÛ‚Íƒ^[ƒ~ƒiƒ‹‚Åupython sphero_server.pyv‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢.
-‚±‚ÌƒT[ƒo‚É‘Î‚µ‚Ärequest‚ð‘—‚é‚Æ, sphero‚ª“®ì‚µ‚Ü‚·.
+ãƒ»å†…å®¹
+å®Ÿè¡Œã®éš›ã¯ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã€Œpython sphero_server.pyã€ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„.
+ã“ã®ã‚µãƒ¼ãƒã«å¯¾ã—ã¦requestã‚’é€ã‚‹ã¨, spheroãŒå‹•ä½œã—ã¾ã™.
 
-—á1:http://127.0.0.1:5000/com?command=go
-ƒuƒ‰ƒEƒU‚Åã‚ÌƒAƒhƒŒƒX‚ÉƒAƒNƒZƒX‚·‚é‚Æ, sphero‚ª‘O‚É“®‚«‚Ü‚·.
+ä¾‹1:http://127.0.0.1:5000/com?command=go
+ãƒ–ãƒ©ã‚¦ã‚¶ã§ä¸Šã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã¨, spheroãŒå‰ã«å‹•ãã¾ã™.
 
-—á2:http://127.0.0.1:5000/com?color=blue
-ƒuƒ‰ƒEƒU‚Åã‚ÌƒAƒhƒŒƒX‚ÉƒAƒNƒZƒX‚·‚é‚Æ, sphero‚ªÂ‚­Œõ‚è‚Ü‚·.
+ä¾‹2:http://127.0.0.1:5000/com?color=blue
+ãƒ–ãƒ©ã‚¦ã‚¶ã§ä¸Šã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã¨, spheroãŒé’ãå…‰ã‚Šã¾ã™.
 
-—á3:http://127.0.0.1:5000/com?emotion=happy
-ƒuƒ‰ƒEƒU‚Åã‚ÌƒAƒhƒŒƒX‚ÉƒAƒNƒZƒX‚·‚é‚Æ, sphero‚ªÂ‚­Œõ‚è, “®‚«‚Ü‚·.
+ä¾‹3:http://127.0.0.1:5000/com?emotion=happy
+ãƒ–ãƒ©ã‚¦ã‚¶ã§ä¸Šã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã¨, spheroãŒé’ãå…‰ã‚Š, å‹•ãã¾ã™.
 
-¦‘¼‚ÌPC‚©‚çƒAƒNƒZƒX‚µ‚½‚¯‚ê‚Î, sphero_server.py‚Ì86s–Ú‚ðƒRƒƒ“ƒgƒAƒEƒgŒã, 
-@87s–Ú‚ÌƒRƒƒ“ƒg‚ðŠO‚µ,ƒAƒhƒŒƒX‚ðÝ’è‚µ‚Ä‚­‚¾‚³‚¢.
+â€»ä»–ã®PCã‹ã‚‰ã‚¢ã‚¯ã‚»ã‚¹ã—ãŸã‘ã‚Œã°, sphero_server.pyã®86è¡Œç›®ã‚’ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆå¾Œ, 
+ã€€87è¡Œç›®ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚’å¤–ã—,ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’è¨­å®šã—ã¦ãã ã•ã„.
+hello
